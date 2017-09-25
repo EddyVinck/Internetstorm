@@ -1,6 +1,6 @@
-#Internetstorm
+# Internetstorm
 
-##A theme based on the colors of Webstorm
+## A theme based on the colors of Webstorm
 
 I use this personally and I like it a lot. I figured other people might like it as well.
 
